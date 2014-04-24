@@ -4,4 +4,4 @@ Components for basic desktop customization with Geektool
 
 Preview:
 
-![Alt text](nroviw.com/images/geeklet-img.png)
+![Alt text](http://nroviw.com/images/geeklet-img.png)
